@@ -50,4 +50,4 @@
 
   [GitHub](https://github.com/oohjared)
 
-  [Email: rencesingzon@yahoo.com]()
+  [Email: rencesingzon@yahoo.com]((mailto:rencesingzon@Yahoo.com)
